@@ -14,7 +14,7 @@ public class Control {
 		return palabra.toString();
 	}
 	/**
-	 * Pone a cero los aciertos 
+	 * Pone a cero los aciertos avsdhkljsdhasdfhjaskdhfklfasdhjklf soy programador<>>><<>
 	 */	
 	public void iniciaAciertos() {
 		int contador;
